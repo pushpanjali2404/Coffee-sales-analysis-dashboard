@@ -26,6 +26,5 @@ This project is an interactive sales dashboard built in Power BI to analyze coff
 •	Data Cleaning & Transformation using Power Query
 •	DAX Measures for KPIs (Revenue, Transactions, Average Transaction Value)
 ________________________________________
-👉 This dashboard can be used by coffee shop managers to track sales performance, optimize product mix, and improve customer payment strategies.
-ChatGPT can make mistakes. Check important info. See Cookie Preferences.
+👉 This dashboard can be used by coffee shop managers to track sales performance, optimize product mix, and improve customer payments.
 
